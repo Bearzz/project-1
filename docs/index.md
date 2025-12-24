@@ -4,7 +4,7 @@ This is the landing page for Bearnson.org, a personal website hosted on GitHub P
 
 ## About Me
 
-Hi, I'm [Your Name]! I'm a [your profession or brief description about yourself].
+Hi, I'm Bearnson.org! I'm a [your profession or brief description about yourself].
 
 ## Projects
 
